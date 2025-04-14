@@ -1,16 +1,18 @@
-Gusion
-Fanny
-Lancelot
-Selena
-Ling
-Karina
-Natalia
-Helcurt
-Hayabusa
-Saber
-Hanzo
-Benedetta
-Aamon
-Joy
-Arlott
-Nolan
+[
+  { "name": "Gusion" },
+  { "name": "Fanny" },
+  { "name": "Lancelot" },
+  { "name": "Selena" },
+  { "name": "Ling" },
+  { "name": "Karina" },
+  { "name": "Natalia" },
+  { "name": "Helcurt" },
+  { "name": "Hayabusa" },
+  { "name": "Saber" },
+  { "name": "Hanzo" },
+  { "name": "Benedetta" },
+  { "name": "Aamon" },
+  { "name": "Joy" },
+  { "name": "Arlott" },
+  { "name": "Nolan" }
+]
