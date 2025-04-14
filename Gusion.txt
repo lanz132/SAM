@@ -61,5 +61,10 @@
     "name": "Desert Spider",
     "image": "https://github.com/Hiro161123/Apps/raw/main/Gusion%20star%202024.png",
     "script": 110
+  },
+  {
+    "name": "Lansordnix",
+    "image": "https://scontent.fceb3-1.fna.fbcdn.net/v/t39.30808-6/485762961_1854558755307708_3423964866066197214_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG0IP4fHnOrrg1KoxlxUEMLLbLz93OStMwtsvP3c5K0zLf-tOET2ZC1ehz75h1V-6cPlaNF0z5KYXETHJuzwBJy&_nc_ohc=Q_AwYkh0aEEQ7kNvwHpjHVc&_nc_oc=AdlqzZFyyL7BLAGlcXKThF1tXTUZ3gwaaxOYcHHrSiQY8Ra71TbWRTONOXbLL_GrGhE&_nc_zt=23&_nc_ht=scontent.fceb3-1.fna&_nc_gid=FU6mId9kgJsvMNcaNW7cbg&oh=00_AfGmuDAkgO0TnrXmCeZ-kM89MU-YyhULo1sRh3ae7pAzeA&oe=6802BFD0",
+    "script": 0
   }
 ]
